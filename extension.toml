@@ -3,5 +3,5 @@ name = "Better Syntax Highlighting"
 version = "0.1.0"
 schema_version = 1
 authors = ["Wytze Sligting <hello@wytze.dev>"]
-description = "Better Syntax Highlighting for function parameters in Typescript"
+description = "Better highlighting of function and method parameter identifiers in TypeScript and TSX, including defaults and destructured patterns"
 repository = "https://github.com/wytzepiet/zed-better-syntax-highlighting"
