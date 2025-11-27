@@ -1,0 +1,7 @@
+id = "zed-better-syntax-highlighting"
+name = "Better Syntax Highlighting"
+version = "0.1.0"
+schema_version = 1
+authors = ["Wytze Sligting <hello@wytze.dev>"]
+description = "Better Syntax Highlighting for function parameters in Typescript"
+repository = "https://github.com/wytzepiet/zed-better-syntax-highlighting"
